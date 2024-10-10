@@ -5,8 +5,8 @@
 		<img src="duck_main.png" alt="" style="display: block; margin: auto; background-color: #1a1a1a;">
 		<p></p>
 		<button 
-			style="background-color: #1a1a1a; 
-               color: #e8d917; 
+			style="background-color: #e8d917; 
+               color: #1a1a1a; 
                font-family: Impact; 
                font-size: 30px; 
                padding: 20px 40px; 
