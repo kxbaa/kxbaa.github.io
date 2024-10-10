@@ -6,16 +6,16 @@
 		<p></p>
 		<button 
 			style="background-color: #1a1a1a; 
-               color: #1a1a1a; 
+               color: #e8d917; 
                font-family: Impact; 
                font-size: 30px; 
                padding: 20px 40px; 
                border: none; 
                cursor: pointer;
 			   display: block; margin: auto;"
-			onclick="alert('Button Quacked!')">
+			onclick="alert('The duck has quacked!')">
 			Quack!
-    </button>
+    		</button>
 		
    </body>
 </html>
