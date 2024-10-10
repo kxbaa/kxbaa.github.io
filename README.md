@@ -2,10 +2,10 @@
 <meta charset="UTF-8">
 	<body style="background-color: #1a1a1a;">
 		<p style="font-size: 70px; font-family: Impact; color: #e8d917;" align="center">The Duck Site</p>
-		<img src="duck_main.png" alt="" style="display: block; margin: auto;">
+		<img src="duck_main.png" alt="" style="display: block; margin: auto; background-color: #1a1a1a;">
 		<p></p>
 		<button 
-			style="background-color: #e8d917; 
+			style="background-color: #1a1a1a; 
                color: #1a1a1a; 
                font-family: Impact; 
                font-size: 30px; 
