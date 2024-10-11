@@ -19,7 +19,7 @@
 
 <audio id="quackSound" src="quack.mp3"></audio>
 
-<script>
+	<script>
         function playSound() {
             const sound = document.getElementById('quackSound');
             sound.play();
