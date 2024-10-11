@@ -1,5 +1,9 @@
 <html>
 <meta charset="UTF-8">
+	<head>
+		<title>The Duck Site</title>
+    <link rel="icon" href="duck_icon.png" type="image/png">
+	</head>
 	<body style="background-color: #1a1a1a;">
 		<p style="font-size: 70px; font-family: Impact; color: #e8d917;" align="center">The Duck Site</p>
 		<img src="duck_main.png" alt="" style="display: block; margin: auto; background-color: #1a1a1a;">
